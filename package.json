@@ -1,0 +1,19 @@
+{
+  "name": "mars-weather",
+  "version": "1.0.0",
+  "description": "This is a simple code for getting mars current weather",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/MARS-WEATHER.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/MARS-WEATHER/issues"
+  },
+  "homepage": "https://github.com/alestor123/MARS-WEATHER#readme"
+}
