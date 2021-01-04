@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/MARS-WEATHER/issues"
   },
-  "homepage": "https://github.com/alestor123/MARS-WEATHER#readme"
+  "homepage": "https://github.com/alestor123/MARS-WEATHER#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
